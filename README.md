@@ -21,13 +21,13 @@ Key Terms Searched: ‘Muscle Disease’, ‘Respiratory Disease’, ‘Skin Dis
 Date of Data: 2022
 Export Method: Exported as CSV
 
-Technology Patents Data Set:
+- Technology Patents Data Set:
 Source: OECD - https://stats.oecd.org/Index.aspx?DataSetCode=PATS_IPC# 
 Data Set Name: Patents by Technology or IPC Class
 Export Method: Downloaded as CSV
 Additional Comments: Consolidated the country list through the UI to only show global figures.
 
-Public Health Expenditure Data Set:
+- Public Health Expenditure Data Set:
 Source: OECD - https://ourworldindata.org/government-spending 
 Date of Data: 2017
 Data Set Name: Public Healthcare Spending as a Share of GDP for High Income Countries
@@ -35,7 +35,7 @@ Countries in Data Set: France, Italy, Sweden, Greece, Germany, Japan, Netherland
 Export Method: Downloaded as a CSV
 Additional Comments: Countries totals as proportion of GDP were averaged into a single data series to represent all high income countries.
 
-Cancer Death Data Set:
+- Cancer Death Data Set:
 Source: National Centre for Health Statistics (https://www.cdc.gov/nchs/data-visualization/mortality-trends/)
 Date of Data: 1900-2018
 Data Set Name: Leading Causes of Death: Age Adjusted Death Rate
