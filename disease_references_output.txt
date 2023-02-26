@@ -1,0 +1,527 @@
+Incredibles 2 contains SYNDROME
+E.T. contains ILLNESS
+E.T. contains FEVER
+E.T. contains ILLNESS
+Captain Marvel contains COUGH
+Jurassic World: Fallen Kingdom contains STROKE
+Jurassic World: Fallen Kingdom contains STROKE
+Wonder Woman contains  AIDS
+Iron Man Three contains DISORDER
+Iron Man Three contains DISORDER
+Iron Man Three contains INSOMNIA
+Iron Man Three contains PARALYSIS
+Captain America: Civil War contains VIRUS
+Captain America: Civil War contains PARALYSIS
+Star Wars: Episode III - Revenge of the Sith contains PLAGUE
+The Hunger Games: Mockingjay - Part 1 contains EPIDEMIC
+The Hunger Games: Mockingjay - Part 1 contains PLAGUE
+Suicide Squad contains DISORDER
+Suicide Squad contains DISORDER
+Deadpool 2 contains CANCER
+Star Wars contains BURNS
+Iron Man contains DISORDER
+Iron Man contains DISORDER
+Iron Man contains PARALYSIS
+Independence Day contains VIRUS
+Inception contains ILLNESS
+Inception contains ILLNESS
+Inception contains VIRUS
+Inception contains COUGH
+The Hunger Games: Mockingjay - Part 2 contains COUGH
+The Amazing Spider-Man contains FLU
+Captain America: The Winter Soldier contains ILLNESS
+Captain America: The Winter Soldier contains ILLNESS
+Captain America: The Winter Soldier contains SICKNESS
+Captain America: The Winter Soldier contains BURNS
+I Am Legend contains PLAGUE
+I Am Legend contains VIRUS
+I Am Legend contains CONTAGION
+I Am Legend contains BURNS
+I Am Legend contains CANCER
+Men in Black contains BURNS
+Men in Black contains CANCER
+X-Men: The Last Stand contains DISORDER
+X-Men: The Last Stand contains DISORDER
+X-Men: The Last Stand contains CANCER
+War of the Worlds contains SICKNESS
+X-Men: Days of Future Past contains PARALYSIS
+Doctor Strange contains PARALYSIS
+Justice League contains STROKE
+Justice League contains STROKE
+The Martian contains BURNS
+Signs contains ASTHMA
+Logan contains VIRUS
+Logan contains SEIZURE
+Logan contains COUGH
+Logan contains DEMENTIA
+Logan contains PARALYSIS
+X2: X-Men United contains ILLNESS
+X2: X-Men United contains ILLNESS
+Venom contains FEVER
+Dawn of the Planet of the Apes contains FLU
+Dawn of the Planet of the Apes contains VIRUS
+Terminator 2: Judgment Day contains DISORDER
+Terminator 2: Judgment Day contains DISORDER
+Terminator 2: Judgment Day contains BURNS
+The Amazing Spider-Man 2 contains ILLNESS
+The Amazing Spider-Man 2 contains FEVER
+The Amazing Spider-Man 2 contains ILLNESS
+The Amazing Spider-Man 2 contains VIRUS
+World War Z contains INFECTION
+World War Z contains EPIDEMIC
+World War Z contains INFECTION
+World War Z contains PLAGUE
+World War Z contains VIRUS
+World War Z contains ASTHMA
+World War Z contains RABIES
+Ralph Breaks the Internet contains VIRUS
+Godzilla contains DEPRESSION
+Wreck-It Ralph contains VIRUS
+A Quiet Place contains  AIDS
+Interstellar contains COUGH
+Interstellar contains DEPRESSION
+The Day After Tomorrow contains BURNS
+X-Men Origins: Wolverine contains DISORDER
+X-Men Origins: Wolverine contains DISORDER
+Rise of the Planet of the Apes contains DISORDER
+Rise of the Planet of the Apes contains DISORDER
+Rise of the Planet of the Apes contains VIRUS
+Rise of the Planet of the Apes contains PARKINSON'S
+Captain America: The First Avenger contains ASTHMA
+Captain America: The First Avenger contains BURNS
+The Matrix contains FEVER
+The Matrix contains VIRUS
+Elysium contains AILMENT
+Elysium contains SEIZURE
+Elysium contains UNHEALTHY
+Elysium contains BROKEN BONE
+Blade Runner 2049 contains BURNS
+Oblivion contains PLAGUE
+Back to the Future Part III contains DEPRESSION
+Aliens contains BURNS
+Aliens contains CANCER
+The X Files contains INFECTION
+The X Files contains INFECTION
+The X Files contains VIRUS
+Blade II contains SICKNESS
+Blade II contains VIRUS
+Blade II contains BURNS
+Blade II contains CANCER
+Star Trek: The Motion Picture contains BURNS
+Maze Runner: The Scorch Trials contains INFECTION
+Maze Runner: The Scorch Trials contains INFECTION
+Maze Runner: The Scorch Trials contains VIRUS
+Alien vs. Predator contains LUNG CANCER
+Alien vs. Predator contains CANCER
+Knowing contains FEVER
+The Day the Earth Stood Still contains INFECTION
+The Day the Earth Stood Still contains INFECTION
+Limitless contains  AIDS
+Alien contains BURNS
+Star Trek III: The Search for Spock contains BURNS
+John Carter contains STROKE
+John Carter contains STROKE
+10 Cloverfield Lane contains INFECTION
+10 Cloverfield Lane contains INFECTION
+V for Vendetta contains VIRUS
+Blade contains BURNS
+Blade contains CANCER
+The House with a Clock in Its Walls contains  AIDS
+Looper contains STROKE
+Looper contains STROKE
+Chronicle contains ILLNESS
+Chronicle contains ILLNESS
+Chronicle contains UNHEALTHY
+Chronicle contains CANCER
+The Happening contains PLAGUE
+The Happening contains CONTAGION
+The Happening contains COUGH
+The Purge contains EPIDEMIC
+The Purge contains PLAGUE
+Ice Age: Collision Course contains COUGH
+The Time Traveler's Wife contains AFFLICTION
+The Adjustment Bureau contains DISORDER
+The Adjustment Bureau contains DISORDER
+Underworld: Awakening contains VIRUS
+Ender's Game contains BURNS
+The Cell contains SEIZURE
+Resident Evil: Afterlife contains INFECTION
+Resident Evil: Afterlife contains EPIDEMIC
+Resident Evil: Afterlife contains INFECTION
+Resident Evil: Afterlife contains VIRUS
+Superman III contains DEPRESSION
+Pacific Rim: Uprising contains BURNS
+Predator contains BURNS
+Hellboy contains PLAGUE
+The Stepford Wives contains PARALYSIS
+Total Recall contains PLAGUE
+RoboCop contains SEIZURE
+Tenet contains BURNS
+Tenet contains CANCER
+Bicentennial Man contains BURNS
+Demolition Man contains UNHEALTHY
+Maze Runner: The Death Cure contains INFECTION
+Maze Runner: The Death Cure contains INFECTION
+Maze Runner: The Death Cure contains VIRUS
+The Chronicles of Riddick contains BURNS
+The Animal contains ASTHMA
+12 Monkeys contains EPIDEMIC
+12 Monkeys contains PLAGUE
+12 Monkeys contains VIRUS
+12 Monkeys contains VERTIGO
+2001: A Space Odyssey contains EPIDEMIC
+The Curse of the Were-Rabbit contains PLAGUE
+The Suicide Squad contains DISORDER
+The Suicide Squad contains DISORDER
+The Suicide Squad contains BURNS
+Alien³ contains INFECTION
+Alien³ contains INFECTION
+Alien³ contains CONVULSION
+The Abyss contains SYNDROME
+Blade: Trinity contains VIRUS
+Resident Evil: Apocalypse contains INFECTION
+Resident Evil: Apocalypse contains CONTAMINATION
+Resident Evil: Apocalypse contains INFECTION
+Resident Evil: Apocalypse contains VIRUS
+The Hitchhiker's Guide to the Galaxy contains CONVULSION
+The Hitchhiker's Guide to the Galaxy contains SEIZURE
+The Dark Tower contains PLAGUE
+Resident Evil: Extinction contains PLAGUE
+Resident Evil: Extinction contains VIRUS
+If I Stay contains HEMORRHAGE
+Volcano contains BURNS
+RoboCop 2 contains SICKNESS
+28 Days Later contains INFECTION
+28 Days Later contains EPIDEMIC
+28 Days Later contains INFECTION
+28 Days Later contains PLAGUE
+28 Days Later contains VIRUS
+28 Days Later contains BURNS
+Frequency contains LUNG CANCER
+Frequency contains CANCER
+Teenage Mutant Ninja Turtles III contains BURNS
+Resident Evil: Retribution contains CONTAMINATION
+Resident Evil: Retribution contains PLAGUE
+Resident Evil: Retribution contains VIRUS
+Short Circuit contains FEVER
+The Fly contains STROKE
+The Fly contains STROKE
+The Fly contains BURNS
+Resident Evil contains INFECTION
+Resident Evil contains CONTAMINATION
+Resident Evil contains INFECTION
+Resident Evil contains VIRUS
+The Faculty contains INFECTION
+The Faculty contains INFECTION
+Pitch Black contains BURNS
+The Adventures of Sharkboy and Lavagirl 3-D contains BURNS
+Surrogates contains VIRUS
+The Running Man contains FEVER
+Spaceballs contains DISORDER
+Spaceballs contains DISORDER
+Sky Captain and the World of Tomorrow contains STROKE
+Sky Captain and the World of Tomorrow contains STROKE
+Paul contains COUGH
+Clockstoppers contains STROKE
+Clockstoppers contains STROKE
+The Island contains INFECTION
+The Island contains CONTAMINATION
+The Island contains INFECTION
+Children of Men contains EPIDEMIC
+Children of Men contains FLU
+The 6th Day contains ILLNESS
+The 6th Day contains ILLNESS
+Darkman contains COUGH
+Darkman contains BURNS
+Dreamcatcher contains INFECTION
+Dreamcatcher contains INFECTION
+Dreamcatcher contains PLAGUE
+Dreamcatcher contains VIRUS
+Geostorm contains VIRUS
+R.I.P.D. contains BURNS
+*batteries not included contains DEMENTIA
+Blade Runner contains SYNDROME
+Blade Runner contains BURNS
+Annihilation contains CANCER
+Final Fantasy: The Spirits Within contains INFECTION
+Final Fantasy: The Spirits Within contains CONTAMINATION
+Final Fantasy: The Spirits Within contains INFECTION
+Final Fantasy: The Spirits Within contains SICKNESS
+Final Fantasy: The Spirits Within contains VIRUS
+Final Fantasy: The Spirits Within contains BURNS
+The Lawnmower Man contains DEPRESSION
+Isle of Dogs contains FEVER
+Isle of Dogs contains FLU
+Isle of Dogs contains VIRUS
+9 contains BURNS
+Quarantine contains ILLNESS
+Quarantine contains ILLNESS
+Quarantine contains VIRUS
+Quarantine contains BRONCHITIS
+Quarantine contains RABIES
+Daybreakers contains PLAGUE
+Daybreakers contains CANCER
+The Last Starfighter contains FEVER
+28 Weeks Later contains INFECTION
+28 Weeks Later contains INFECTION
+28 Weeks Later contains VIRUS
+Doom contains INFECTION
+Doom contains INFECTION
+Resident Evil: The Final Chapter contains ILLNESS
+Resident Evil: The Final Chapter contains ILLNESS
+Resident Evil: The Final Chapter contains MALADY
+Resident Evil: The Final Chapter contains VIRUS
+Event Horizon contains FEVER
+Superhero Movie contains ILLNESS
+Superhero Movie contains ILLNESS
+Superhero Movie contains COUGH
+The Host contains INFECTION
+The Host contains INFECTION
+The Host contains VIRUS
+Blast from the Past contains CONTAMINATION
+The World's End contains CANCER
+Æon Flux contains PLAGUE
+Æon Flux contains VIRUS
+The Lazarus Effect contains CATARACT
+The Mist contains PLAGUE
+The Mist contains COUGH
+The Mist contains BURNS
+Mimic contains EPIDEMIC
+Mimic contains FEVER
+Escape from L.A. contains FLU
+Escape from L.A. contains VIRUS
+The Fourth Kind contains INSOMNIA
+Downsizing contains CANCER
+Downsizing contains FIBROMYALGIA
+Transcendence contains VIRUS
+Project Almanac contains BURNS
+Overlord contains BURNS
+Skyline contains STROKE
+Skyline contains STROKE
+The X Files: I Want to Believe contains SEIZURE
+The X Files: I Want to Believe contains LUNG CANCER
+The X Files: I Want to Believe contains CANCER
+The Circle contains MULTIPLE SCLEROSIS
+The Incredible Shrinking Woman contains ILLNESS
+The Incredible Shrinking Woman contains ILLNESS
+Pulse contains EPIDEMIC
+Pulse contains VIRUS
+The Fly II contains STROKE
+The Fly II contains SYNDROME
+The Fly II contains VIRUS
+The Fly II contains STROKE
+Igor contains MALARIA
+Species II contains INFECTION
+Species II contains INFECTION
+Johnny Mnemonic contains SYNDROME
+Johnny Mnemonic contains SEIZURE
+I, Frankenstein contains PARALYSIS
+The Boys from Brazil contains BURNS
+Ultraviolet contains INFECTION
+Ultraviolet contains INFECTION
+Ultraviolet contains VIRUS
+Ultraviolet contains DEPRESSION
+Prophecy contains ILLNESS
+Prophecy contains CONTAMINATION
+Prophecy contains ILLNESS
+Prophecy contains BURNS
+Apollo 18 contains INFECTION
+Apollo 18 contains INFECTION
+The Thing contains INFECTION
+The Thing contains INFECTION
+The Thing contains VIRUS
+Spacehunter: Adventures in the Forbidden Zone contains PLAGUE
+Westworld contains VIRUS
+Leviathan contains INFECTION
+Leviathan contains INFECTION
+Leviathan contains PLAGUE
+Highlander II: The Quickening contains ILLNESS
+Highlander II: The Quickening contains ILLNESS
+Highlander II: The Quickening contains BURNS
+Spaced Invaders contains VIRUS
+About Time contains LUNG CANCER
+About Time contains CANCER
+The Invasion contains EPIDEMIC
+The Invasion contains FEVER
+The Invasion contains FLU
+The Invasion contains VIRUS
+Solaris contains DEPRESSION
+Dark City contains STROKE
+Dark City contains STROKE
+Dark City contains BURNS
+Lockout contains DEMENTIA
+Scanners contains CONVULSION
+Virus contains VIRUS
+It Comes at Night contains VIRUS
+It Comes at Night contains COUGH
+It Comes at Night contains BURNS
+Osmosis Jones contains FEVER
+Osmosis Jones contains FLU
+Osmosis Jones contains VIRUS
+Osmosis Jones contains UNHEALTHY
+Dredd contains EPIDEMIC
+Highlander: Endgame contains STROKE
+Highlander: Endgame contains STROKE
+The Darkest Minds contains VIRUS
+Gattaca contains DISORDER
+Gattaca contains DISORDER
+Gattaca contains MYOPIA
+Escape from the Planet of the Apes contains PLAGUE
+Hot Tub Time Machine 2 contains VIRUS
+Hot Tub Time Machine 2 contains SEIZURE
+Self/less contains BURNS
+Self/less contains CANCER
+Phantasm contains PLAGUE
+Upgrade contains DEPRESSION
+Lifeforce contains PLAGUE
+Lifeforce contains CONTAGION
+Doomsday contains DISORDER
+Doomsday contains CONTAMINATION
+Doomsday contains DISORDER
+Doomsday contains EPIDEMIC
+Doomsday contains PLAGUE
+Doomsday contains VIRUS
+Doomsday contains CONTAGION
+Cyborg contains PLAGUE
+The Fountain contains SEIZURE
+The Fountain contains CANCER
+The Secret of NIMH contains PNEUMONIA
+King Kong contains DEPRESSION
+Brazil contains CONTAMINATION
+Conquest of the Planet of the Apes contains PLAGUE
+Conquest of the Planet of the Apes contains BURNS
+S1m0ne contains VIRUS
+Digimon: The Movie contains VIRUS
+Mad Max contains BURNS
+The Omega Man contains ILLNESS
+The Omega Man contains CONTAMINATION
+The Omega Man contains ILLNESS
+The Omega Man contains PLAGUE
+A Cure for Wellness contains ILLNESS
+A Cure for Wellness contains ILLNESS
+Soylent Green contains DISORDER
+Soylent Green contains DISORDER
+The Space Between Us contains OSTEOGENESIS IMPERFECTA
+Slither contains PLAGUE
+Fortress contains VIRUS
+Seeking a Friend for the End of the World contains COUGH
+Seeking a Friend for the End of the World contains INSOMNIA
+The Jacket contains DEMENTIA
+A Clockwork Orange contains ILLNESS
+A Clockwork Orange contains ILLNESS
+A Clockwork Orange contains SICKNESS
+A Clockwork Orange contains PNEUMONIA
+A Clockwork Orange contains DEPRESSION
+A Clockwork Orange contains PARALYSIS
+The Wandering Earth contains BURNS
+Screamers contains COUGH
+Victor Frankenstein contains FEVER
+2.0 contains SICKNESS
+Creator contains SICKNESS
+Creator contains STROKE
+Creator contains STROKE
+Monkey Shines contains PARALYSIS
+Moon contains COUGH
+The Beast from 20,000 Fathoms contains VIRUS
+Abbott and Costello Meet Frankenstein contains BURNS
+Atlas Shrugged: Part I contains AILMENT
+C.H.U.D. contains CONTAMINATION
+Enthiran contains VIRUS
+The War of the Worlds contains BURNS
+Dark Angel contains BURNS
+Enemy Mine contains CONVULSION
+House of Dark Shadows contains AFFLICTION
+Sleight contains INFECTION
+Sleight contains INFECTION
+Sunshine contains INFECTION
+Sunshine contains INFECTION
+Sunshine contains BURNS
+Bug contains SICKNESS
+The Andromeda Strain contains DISORDER
+The Andromeda Strain contains INFECTION
+The Andromeda Strain contains CONTAMINATION
+The Andromeda Strain contains DISORDER
+The Andromeda Strain contains FEVER
+The Andromeda Strain contains INFECTION
+The Andromeda Strain contains VIRUS
+The Andromeda Strain contains CONTAGION
+The Andromeda Strain contains SEIZURE
+The Andromeda Strain contains EPILEPSY
+Robot & Frank contains ILLNESS
+Robot & Frank contains ILLNESS
+Robot & Frank contains DEMENTIA
+Pi contains DISORDER
+Pi contains DISORDER
+Pi contains PLAGUE
+Pi contains STROKE
+Pi contains STROKE
+Pi contains BURNS
+Melancholia contains DEPRESSION
+Forbidden Planet contains DEPRESSION
+eXistenZ contains BURNS
+King Kong vs. Godzilla contains BURNS
+Class of 1999 contains PLAGUE
+Krrish 3 contains VIRUS
+The Curse contains CONTAMINATION
+The Curse contains PLAGUE
+Carnosaur contains VIRUS
+Take Shelter contains ILLNESS
+Take Shelter contains ILLNESS
+Take Shelter contains PLAGUE
+Take Shelter contains SCHIZOPHRENIA
+First Men in the Moon contains UNHEALTHY
+Brain Dead contains ILLNESS
+Brain Dead contains ILLNESS
+Donnie Darko contains PLAGUE
+Another Earth contains PLAGUE
+From Beyond contains SCHIZOPHRENIA
+High Life contains CONTAMINATION
+High Life contains STROKE
+High Life contains STROKE
+Lazer Team contains BURNS
+Tarantula contains DISORDER
+Tarantula contains DISORDER
+Attack the Block contains CONTAMINATION
+Kong: Skull Island contains BURNS
+Eternals contains AFFLICTION
+Mad Max: Fury Road contains SICKNESS
+Divergent contains BURNS
+Terminator 3: Rise of the Machines contains VIRUS
+War for the Planet of the Apes contains FLU
+War for the Planet of the Apes contains VIRUS
+Deep Impact contains FEVER
+Deep Impact contains ILL HEALTH
+The Incredible Hulk contains CONTAMINATION
+The Incredible Hulk contains COUGH
+The Wolverine contains BURNS
+The Wolverine contains CANCER
+Hulk contains CANCER
+Close Encounters of the Third Kind contains BURNS
+Minority Report contains SEIZURE
+Fantastic Four: Rise of the Silver Surfer contains BURNS
+Bumblebee contains BURNS
+Super 8 contains AILMENT
+Super 8 contains INFECTION
+Super 8 contains INFECTION
+Prometheus contains INFECTION
+Prometheus contains INFECTION
+Prometheus contains BURNS
+Terminator Salvation contains CANCER
+G.I. Joe: Retaliation contains BURNS
+District 9 contains PLAGUE
+Ghostbusters II contains PLAGUE
+Face/Off contains PLAGUE
+Face/Off contains COUGH
+Face/Off contains BURNS
+Glass contains DISORDER
+Glass contains DISORDER
+Watchmen contains BURNS
+Watchmen contains CANCER
+Batman & Robin contains ILLNESS
+Batman & Robin contains ILLNESS
+Batman & Robin contains SYNDROME
+Rampage contains CANCER
+Contact contains CANCER
+Vanilla Sky contains DEPRESSION
+Arrival contains CANCER
+Unbreakable contains BRITTLE BONE
