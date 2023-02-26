@@ -1,6 +1,8 @@
 # imdb_scifi-analysis
+
+# Popcorn and Pathogens: A Critical Analysis of Health Representation in Science Fiction Films
+
 IMDB Sci-Fi Movies Analysis in the context of Public Health
-Popcorn and Pathogens: A Critical Analysis of Health Representation in Science Fiction Films
 
 **Python code used for a report for SCOM2003 - Science and Popular Fiction at the ANU**
 
